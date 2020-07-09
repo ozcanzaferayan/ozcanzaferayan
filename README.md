@@ -1,11 +1,4 @@
 ### Hi there 👋
-<style>
-img {
-  width: 100%;
-  border: none;
-  background: none;
-}
-</style>
 
 <img src="https://raw.githubusercontent.com/ozcanzaferayan/ozcanzaferayan/master/gif/adorable_white_dog_wiggles_ears.gif" alt="Adorable white dog wiggles ears">
 

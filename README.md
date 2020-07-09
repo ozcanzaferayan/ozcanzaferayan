@@ -1,4 +1,4 @@
-![Adorable white dog wiggles ears](./gif/adorable_white_dog_wiggles_ears.gif)
+![Adorable white dog wiggles ears](https://raw.githubusercontent.com/ozcanzaferayan/ozcanzaferayan/master/gif/adorable_white_dog_wiggles_ears.gif)
 
 <!--
 **ozcanzaferayan/ozcanzaferayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

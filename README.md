@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zaferayan" target="blank"><img src="https://img.shields.io/twitter/follow/zaferayan?logo=twitter&style=for-the-badge" alt="zaferayan" /></a> </p>
 
-- 🔭 I’m currently working at [Teknasyon](http://teknasyon.com)
+- 🔭 I’m currently working on [Teknasyon](http://teknasyon.com)
 
 - 🌱 I’m currently learning **Remix**
 
@@ -49,8 +49,8 @@
 <br/><br/><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozcanzaferayan&show_icons=true&locale=en&layout=compact" alt="ozcanzaferayan" /></p>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ozcanzaferayan&show_icons=true&locale=en" alt="ozcanzaferayan" /></p>
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanzaferayan&" alt="ozcanzaferayan" /></p>

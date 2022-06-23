@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zaferayan" target="blank"><img src="https://img.shields.io/twitter/follow/zaferayan?logo=twitter&style=for-the-badge" alt="zaferayan" /></a> </p>
 
-- 🔭 I’m currently working on [Teknasyon](http://teknasyon.com)
+- 🔭 I’m currently working at [Teknasyon](http://teknasyon.com)
 
 - 🌱 I’m currently learning **Remix**
 

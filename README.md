@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kod karmaşıklığı giderme teknikleri](https://zaferayan.medium.com/kod-karma%C5%9F%C4%B1kl%C4%B1%C4%9F%C4%B1-giderme-teknikleri-1b0726a7fc03?source=rss-d6b32fe8f8------2)
 - [React — Haziran 2022 güncellemeleri](https://zaferayan.medium.com/react-haziran-2022-g%C3%BCncellemeleri-4561c45a23d3?source=rss-d6b32fe8f8------2)
 - [Deep dive into React Native JSI](https://engineering.teknasyon.com/deep-dive-into-react-native-jsi-5fbad4ea8f06?source=rss-d6b32fe8f8------2)
 - [How to write a test for network requests in React components?](https://zaferayan.medium.com/how-to-write-a-test-for-network-requests-in-react-components-ca3718936b83?source=rss-d6b32fe8f8------2)
-- [How to squash last X commits after they have been pushed](https://zaferayan.medium.com/how-to-squash-last-x-commits-after-they-have-been-pushed-502a5b584401?source=rss-d6b32fe8f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

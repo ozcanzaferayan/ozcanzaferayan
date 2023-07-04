@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Expo ile Firebase Entegrasyonu](https://zaferayan.medium.com/expo-ile-firebase-entegrasyonu-65a72194ab18?source=rss-d6b32fe8f8------2)
 - [How to setup Jest and React Testing Library in Vite project](https://zaferayan.medium.com/how-to-setup-jest-and-react-testing-library-in-vite-project-2600f2d04bdd?source=rss-d6b32fe8f8------2)
 - [Fetch vs Axios. Which one to choose?](https://zaferayan.medium.com/fetch-vs-axios-which-one-to-choose-e76872062820?source=rss-d6b32fe8f8------2)
 - [Fetch vs Axios. Hangisini tercih etmeli?](https://zaferayan.medium.com/fetch-vs-axios-hangisini-tercih-etmeli-57038ffa55dd?source=rss-d6b32fe8f8------2)
-- [Kod karmaşıklığı giderme teknikleri](https://zaferayan.medium.com/kod-karma%C5%9F%C4%B1kl%C4%B1%C4%9F%C4%B1-giderme-teknikleri-1b0726a7fc03?source=rss-d6b32fe8f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

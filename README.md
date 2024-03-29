@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NextJS Render Teknikleri](https://zaferayan.medium.com/nextjs-render-teknikleri-8766bb53d95e?source=rss-d6b32fe8f8------2)
 - [Expo ile Google Authentication](https://zaferayan.medium.com/expo-ile-google-authentication-ff59f3254453?source=rss-d6b32fe8f8------2)
 - [Expo &amp; Firebase Integration](https://zaferayan.medium.com/expo-firebase-integration-95a745ae2dfe?source=rss-d6b32fe8f8------2)
 - [Expo ile Firebase Entegrasyonu](https://zaferayan.medium.com/expo-ile-firebase-entegrasyonu-65a72194ab18?source=rss-d6b32fe8f8------2)
-- [How to setup Jest and React Testing Library in Vite project](https://zaferayan.medium.com/how-to-setup-jest-and-react-testing-library-in-vite-project-2600f2d04bdd?source=rss-d6b32fe8f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

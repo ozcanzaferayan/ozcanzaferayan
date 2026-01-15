@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React &amp; Next.js Performans Optimizasyonu](https://zaferayan.medium.com/react-next-js-performans-optimizasyonu-4742caf0d8fa?source=rss-d6b32fe8f8------2)
 - [2025 Ağustos Detaylı Maaş Anketi](https://zaferayan.medium.com/2025-a%C4%9Fustos-detayl%C4%B1-maa%C5%9F-anketi-98446d71920a?source=rss-d6b32fe8f8------2)
 - [2024 Ağustos Detaylı Maaş Anketi](https://zaferayan.medium.com/2024-a%C4%9Fustos-detayl%C4%B1-maa%C5%9F-anketi-eb4b02418145?source=rss-d6b32fe8f8------2)
 - [React Projesini Github Pages ile Yayınlama](https://zaferayan.medium.com/react-projesini-github-pages-ile-yay%C4%B1nlama-eb08867b5477?source=rss-d6b32fe8f8------2)
-- [NextJS Render Teknikleri](https://zaferayan.medium.com/nextjs-render-teknikleri-8766bb53d95e?source=rss-d6b32fe8f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

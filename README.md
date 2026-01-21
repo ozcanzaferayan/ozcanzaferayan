@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Herkesin Dilindeki Agentic AI Nedir?](https://zaferayan.medium.com/herkesin-dilindeki-agentic-ai-nedir-62688438fa9b?source=rss-d6b32fe8f8------2)
 - [Expo’da Kaçınılması Gereken Paketler](https://zaferayan.medium.com/expoda-ka%C3%A7%C4%B1n%C4%B1lmas%C4%B1-gereken-paketler-33048aed5d71?source=rss-d6b32fe8f8------2)
 - [Expo Best Practices — Kapsamlı Rehber](https://zaferayan.medium.com/expo-best-practices-kapsaml%C4%B1-rehber-0edbf7b3c28f?source=rss-d6b32fe8f8------2)
 - [AI Agent’larla Daha Verimli Kod Yazmak: 2 Basit ESLint Kuralı](https://zaferayan.medium.com/ai-agentlarla-daha-verimli-kod-yazmak-2-basit-eslint-kural%C4%B1-fad6093a0108?source=rss-d6b32fe8f8------2)
-- [Tüm Hayatını 1 Günde Nasıl Düzeltirsin](https://zaferayan.medium.com/t%C3%BCm-hayat%C4%B1n%C4%B1-1-g%C3%BCnde-nas%C4%B1l-d%C3%BCzeltirsin-ebe095df8f72?source=rss-d6b32fe8f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

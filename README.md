@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Uygulama Yaptık ee Sonra?](https://zaferayan.medium.com/uygulama-yapt%C4%B1k-ee-sonra-ec57d0131d74?source=rss-d6b32fe8f8------2)
+- [Uygulamanızı 0&#39;dan 100 Kullanıcıya Taşıyın](https://zaferayan.medium.com/uygulama-yapt%C4%B1k-ee-sonra-ec57d0131d74?source=rss-d6b32fe8f8------2)
 - [Herkesin Dilindeki Agentic AI Nedir?](https://zaferayan.medium.com/herkesin-dilindeki-agentic-ai-nedir-62688438fa9b?source=rss-d6b32fe8f8------2)
 - [Expo’da Kaçınılması Gereken Paketler](https://zaferayan.medium.com/expoda-ka%C3%A7%C4%B1n%C4%B1lmas%C4%B1-gereken-paketler-33048aed5d71?source=rss-d6b32fe8f8------2)
 - [Expo Best Practices — Kapsamlı Rehber](https://zaferayan.medium.com/expo-best-practices-kapsaml%C4%B1-rehber-0edbf7b3c28f?source=rss-d6b32fe8f8------2)
